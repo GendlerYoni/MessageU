@@ -1,0 +1,45 @@
+# Client local data / private key
+my.info.txt
+
+# Local server configuration
+server.info.txt
+myport.info.txt
+
+# SQLite database files
+defensive.db
+defensive.db-*
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.vcxproj.user
+*.suo
+
+# NuGet / local dependency packages
+packages/
+
+# Local dependency managers / libraries
+vcpkg/
+
+# C/C++ build artifacts
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# OS junk
+.DS_Store
+Thumbs.db
