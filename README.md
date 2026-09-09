@@ -110,7 +110,7 @@ The server uses SQLite to persist:
 - Last-seen information
 - Waiting messages
 
-Messages remain stored until they are retrieved by the intended recipient.
+Messages remain stored until they are requested by the intended recipient.
 
 The SQLite persistence layer was implemented as the optional persistence extension of the coursework specification.
 
@@ -178,7 +178,7 @@ The repository contains the project source code but does not bundle external C++
 
 - Windows
 - Visual Studio 2022 or a compatible C++ toolchain
-- C++11 or newer
+- C++17 or newer
 - Boost / Boost.Asio
 - Crypto++
 - Python 3
