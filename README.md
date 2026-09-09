@@ -252,3 +252,11 @@ The implementation work in this repository includes the client/server applicatio
 ---
 
 This repository is maintained as part of my software engineering portfolio.
+
+## Contact
+
+**Yoni Gendler**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yoni-gendler/)
+- 💻 [GitHub](https://github.com/GendlerYoni)
+- 📧 [gendler.yoni.dev@gmail.com](mailto:gendler.yoni.dev@gmail.com)
